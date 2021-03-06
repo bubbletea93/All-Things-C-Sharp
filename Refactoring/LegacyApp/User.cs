@@ -1,6 +1,6 @@
 using System;
 
-namespace LegacyApp.Models
+namespace LegacyApp
 {
     public class User
     {

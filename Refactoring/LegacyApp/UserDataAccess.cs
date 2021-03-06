@@ -1,9 +1,8 @@
 ﻿using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
-using LegacyApp.Models;
 
-namespace LegacyApp.DataAccess
+namespace LegacyApp
 {
     public static class UserDataAccess
     {

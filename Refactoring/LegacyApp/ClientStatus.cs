@@ -1,4 +1,4 @@
-namespace LegacyApp.Models
+namespace LegacyApp
 {
     public enum ClientStatus
     {
