@@ -1,8 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyApp", "LegacyApp\LegacyApp.csproj", "{1ED11EB1-3861-43A6-9B3E-F10C114F4EA7}"
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LegacyApp", "LegacyApp\LegacyApp.csproj", "{1ED11EB1-3861-43A6-9B3E-F10C114F4EA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyApp.Consumer", "LegacyApp.Consumer\LegacyApp.Consumer.csproj", "{F66B7DE1-33C7-482E-94F8-95358F06ED2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LegacyApp.Consumer", "LegacyApp.Consumer\LegacyApp.Consumer.csproj", "{F66B7DE1-33C7-482E-94F8-95358F06ED2B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LegacyApp.UnitTests", "LegacyApp.UnitTests\LegacyApp.UnitTests.csproj", "{24612D85-D09F-4F0D-876A-BF4D6153ECCE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +23,15 @@ Global
 		{F66B7DE1-33C7-482E-94F8-95358F06ED2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F66B7DE1-33C7-482E-94F8-95358F06ED2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F66B7DE1-33C7-482E-94F8-95358F06ED2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24612D85-D09F-4F0D-876A-BF4D6153ECCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24612D85-D09F-4F0D-876A-BF4D6153ECCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24612D85-D09F-4F0D-876A-BF4D6153ECCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24612D85-D09F-4F0D-876A-BF4D6153ECCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {250D00B6-A67C-4AA5-A856-B0FB49EB8B37}
 	EndGlobalSection
 EndGlobal

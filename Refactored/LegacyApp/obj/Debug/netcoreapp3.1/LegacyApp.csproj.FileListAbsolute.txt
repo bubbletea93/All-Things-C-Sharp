@@ -1,0 +1,9 @@
+C:\Users\Danh Nguyen\Desktop\All-Things-C-Sharp\Refactored\LegacyApp\bin\Debug\netcoreapp3.1\LegacyApp.deps.json
+C:\Users\Danh Nguyen\Desktop\All-Things-C-Sharp\Refactored\LegacyApp\bin\Debug\netcoreapp3.1\LegacyApp.dll
+C:\Users\Danh Nguyen\Desktop\All-Things-C-Sharp\Refactored\LegacyApp\bin\Debug\netcoreapp3.1\LegacyApp.pdb
+C:\Users\Danh Nguyen\Desktop\All-Things-C-Sharp\Refactored\LegacyApp\obj\Debug\netcoreapp3.1\LegacyApp.csprojAssemblyReference.cache
+C:\Users\Danh Nguyen\Desktop\All-Things-C-Sharp\Refactored\LegacyApp\obj\Debug\netcoreapp3.1\LegacyApp.AssemblyInfoInputs.cache
+C:\Users\Danh Nguyen\Desktop\All-Things-C-Sharp\Refactored\LegacyApp\obj\Debug\netcoreapp3.1\LegacyApp.AssemblyInfo.cs
+C:\Users\Danh Nguyen\Desktop\All-Things-C-Sharp\Refactored\LegacyApp\obj\Debug\netcoreapp3.1\LegacyApp.csproj.CoreCompileInputs.cache
+C:\Users\Danh Nguyen\Desktop\All-Things-C-Sharp\Refactored\LegacyApp\obj\Debug\netcoreapp3.1\LegacyApp.dll
+C:\Users\Danh Nguyen\Desktop\All-Things-C-Sharp\Refactored\LegacyApp\obj\Debug\netcoreapp3.1\LegacyApp.pdb
