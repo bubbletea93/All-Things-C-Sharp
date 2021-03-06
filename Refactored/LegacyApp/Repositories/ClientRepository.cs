@@ -1,8 +1,10 @@
-﻿using System.Configuration;
+﻿using LegacyApp.Models;
+using LegacyApp.Models.Enums;
+using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 
-namespace LegacyApp
+namespace LegacyApp.Repositories
 {
     public class ClientRepository
     {
@@ -28,11 +30,11 @@ namespace LegacyApp
                 while (reader.Read())
                 {
                     client = new Client
-                                      {
-                                          Id = int.Parse(reader["ClientId"].ToString()),
-                                          Name = reader["Name"].ToString(),
-                                          ClientStatus = (ClientStatus)int.Parse(reader["ClientStatusId"].ToString())
-                                      };
+                    {
+                        Id = int.Parse(reader["ClientId"].ToString()),
+                        Name = reader["Name"].ToString(),
+                        ClientStatus = (ClientStatus)int.Parse(reader["ClientStatusId"].ToString())
+                    };
                 }
             }
 
